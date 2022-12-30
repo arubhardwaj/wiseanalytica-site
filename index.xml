@@ -6,7 +6,7 @@
     <description>Recent content in Homepage on Wise Analytica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Dec 2018 13:45:06 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aru Bhardwaj</title>
       <link>/team/aru-bhardwaj/</link>
@@ -37,16 +37,26 @@ Healthcare: NLP is used in healthcare to extract information from clinical docum
     </item>
     
     <item>
-      <title>Data Extraction and Prepration</title>
-      <link>/services/dataextraction/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <title>Could be you - we are hiring</title>
+      <link>/team/couldbeyou/</link>
+      <pubDate>Thu, 20 Dec 2018 13:45:06 +1000</pubDate>
       
-      <guid>/services/dataextraction/</guid>
+      <guid>/team/couldbeyou/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning</title>
+      <title>Predictive Analytics</title>
+      <link>/services/dataextraction/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>/services/dataextraction/</guid>
+      <description>Are you looking to gain a competitive edge and uncover new opportunities for growth? Wise Analytica&amp;rsquo;s predictive analytics service can help. Our predictive analytics platform provides you with the insights you need to make data-driven decisions and maximize your impact. With Wise Analytica, you can:
+ Analyze your data in real-time and uncover trends and patterns that can be used to make better decisions. Identify and quantify risks and opportunities, and develop strategies to capitalize on them.</description>
+    </item>
+    
+    <item>
+      <title>AI &amp; Machine Learning Consulting</title>
       <link>/services/machinelearning/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
@@ -70,7 +80,7 @@ For Business Machine learning is a process of teaching computers to learn from d
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>/services/dataarch/</guid>
-      <description></description>
+      <description>Our experienced team of data architects will help you design a data architecture that will meet all your business requirements. We provide a comprehensive suite of services that include data integration, data modelling, data warehousing, data mining, and data governance. With our expertise, we will help you create a flexible and scalable data architecture that will support your business objectives. Our data architects are knowledgeable in the latest technologies, and they will work closely with you to ensure that your data architecture meets your specific needs.</description>
     </item>
     
     <item>

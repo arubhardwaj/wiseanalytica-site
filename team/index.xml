@@ -6,7 +6,7 @@
     <description>Recent content in Team on Wise Analytica</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Dec 2018 13:45:06 +1000</lastBuildDate><atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aru Bhardwaj</title>
       <link>/team/aru-bhardwaj/</link>
@@ -14,6 +14,15 @@
       
       <guid>/team/aru-bhardwaj/</guid>
       <description>Aru is the founder of Wise Analytica. Started his career as a data science consultant in 2019, since then he is working with clients across the globe. He is experienced crafting machine learning solutions for different sectors including management consulting firms, marketing agencies, real estate firms and healthcare institutions. He believe that the most important trait in a data scientist is not how well one implements the algorithms and models but translating a real-life problem that can be solved using that analysis.</description>
+    </item>
+    
+    <item>
+      <title>Could be you - we are hiring</title>
+      <link>/team/couldbeyou/</link>
+      <pubDate>Thu, 20 Dec 2018 13:45:06 +1000</pubDate>
+      
+      <guid>/team/couldbeyou/</guid>
+      <description></description>
     </item>
     
   </channel>
